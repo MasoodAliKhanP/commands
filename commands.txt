@@ -692,3 +692,12 @@ yum install yum-utils
  
 
 package-cleanup --oldkernels --count=2 
+
+git commands:
+git init
+  git status
+  git add back-office/
+git commit -m "first commit"
+git branch -M main
+ git remote add origin https://github.com/MasoodAliKhanP/JavaCodeTemplates.git
+ git push -u origin main
